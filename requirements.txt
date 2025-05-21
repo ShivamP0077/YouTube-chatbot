@@ -1,0 +1,9 @@
+streamlit
+youtube-transcript-api
+langchain
+langchain-huggingface
+langchain-community
+langchain-core
+faiss-cpu
+sentence-transformers
+google-generativeai
